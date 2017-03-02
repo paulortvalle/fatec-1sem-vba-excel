@@ -1,4 +1,4 @@
-# Algoritimos em Pascal
+# Linguagem de Programação VBA para Excel
 
 ## Sobre
 
